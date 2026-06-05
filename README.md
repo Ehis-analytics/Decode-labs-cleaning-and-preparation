@@ -102,7 +102,7 @@ A final review was conducted to ensure:
 
 ## Dataset preview
 ### Raw dataset Preview
-- ![Raw dataset preview](Screenshots/Raw_dataset_preview.png)
+-![Raw Dataset Preview](screenshots/Raw_dataset_preview.png)
 
 ### Cleaned Dataset Preview
 -![Cleaned Dataset Preview](screenshots/Cleaned_dataset_preview.png)
