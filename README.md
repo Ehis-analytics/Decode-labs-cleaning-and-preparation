@@ -100,13 +100,15 @@ A final review was conducted to ensure:
 - [Raw Dataset](Raw_dataset.xlsx)
 - [Cleaned Dataset](Cleaned_dataset.xlsx)
 
-## Dataset preview
-### Raw dataset Preview
--![Raw Dataset Preview](screenshots/Raw_dataset_preview.png)
+## Dataset Preview
+
+### Raw Dataset Preview
+
+![Raw Dataset Preview](screenshots/Raw_dataset_preview.png)
 
 ### Cleaned Dataset Preview
--![Cleaned Dataset Preview](screenshots/Cleaned_dataset_preview.png)
 
+![Cleaned Dataset Preview](screenshots/Cleaned_dataset_preview.png)
 
 
 
