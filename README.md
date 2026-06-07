@@ -1,4 +1,4 @@
-# Decode-labs-data-cleaning-and-preparation
+Decode Labs Project 1: Decode-labs-data-cleaning-and-preparation
 ## Project Overview
 This project focuses on cleaning and preparing an e-commerce transaction dataset for analysis. The objective were set to improve data quality, identify inconsistencies, handle missing values, and ensure the dataset was suitable for exploratory data analysis (EDA) and SQL-based business analysis.
 ---
